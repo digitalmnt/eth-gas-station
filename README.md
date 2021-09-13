@@ -1,6 +1,6 @@
 # Getting Started with Create React App and ETH Gas Station Display
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and shows data for costs of transactions on the ethereum network.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and shows data for costs of transactions on the ethereum network. Data is provided DeFi Pulse Gas API. Api key is required. 
 
 ## Available Scripts
 
