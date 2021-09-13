@@ -9,6 +9,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: calc(7px + 2vmin);
+  font-size: calc(7px + 1.2vw);
   min-width: 100%;
 }
